@@ -8,6 +8,10 @@
 LinearOperator
 ===========================================
 
+.. include:: ../../README.rst
+   :start-after: docs_index_start
+   :end-before: docs_index_end
+
 .. toctree::
    :maxdepth: 1
    :caption: Basic Concepts
